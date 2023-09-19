@@ -3,14 +3,14 @@
 background-color: #D3D3D3;
 padding: 10px;
 }
-.navbar>ul{
+ul{
     list-style: none;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.navbar>ul>li{
+li{
     margin-right: 1rem;
     display: inline;
 }
